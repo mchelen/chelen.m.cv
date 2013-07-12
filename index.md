@@ -7,7 +7,9 @@ tagline: Curriculum Vitae
 
 
 http://mikechelen.com
+
 http://twitter.com/MikeChelen
+
 (202) 683-9032
 
 ### Summary ###
