@@ -48,6 +48,7 @@ Minor: Chemical Sciences
 *March 2009 - Present*  
   Develop services and interfaces for data conversion and analysis of scientific data. SQL, XML, JSON, CSV file formats, processing in PHP, Javascript, Python, and Java.
   Clients:
+
  - **[Sidescape Media](http://example.com)** Manage small team for LAMP and Drupal Commerce server administration. Deploy virtual machines hosted on Rackspace and Amazon AWS using Ansible. Malicious traffic mitigation with IP Tables and Fail2Ban.
  - **[Noodle](http://www.noodle.com/)** Optimize and debug SOLR search queries. Create developer tools for testing Django. Coordinate development using issue tracker and Vagrant.
  - **[Rayogram](http://www.rayogram.com/)** Develop PHP in CiviCRM core to add requested features. Script deployment and bulk migration of Drupal websites on LAMP servers using Bash, Drush, Perl and MySQL.
