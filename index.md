@@ -22,18 +22,24 @@ Molecular biology and neuroscience experienced in scientific data analysis. Deve
 
 # Specialties #
 
-Molecular biology, neurobiology, biochemistry, organic chemistry, bioinformatics, bibliometrics,
+- Molecular biology, neurobiology, biochemistry, organic chemistry, bioinformatics, bibliometrics,
 imaging and microscopy,
 
-Server software: Apache, MySQL, SOLR, nginx
-Programming languages: PHP, Java, JavaScript, BASH, Python, NodeJS
-Data formats: SQL, XML, JSON
-Frontend: HTML, CSS, JQuery, JQuery Mobile, Bootstrap, SASS
-DevOps: Ansible, Docker, Vagrant, Travis CI, Grunt, QUnit
-Version Control: Git, Subversion, CVS
-System Administration: IPTables, fail2ban
-Visualization: d3.js, Google Charts, CytoscapeJS, GnuPlot
-Data Analysis: R, Google Fusion Tables, CSVkit
+- Server software: Apache, MySQL, SOLR, nginx
+- Programming languages: PHP, Java, JavaScript, BASH, Python, NodeJS
+- Data formats: SQL, XML, JSON
+- Frontend: HTML, CSS, JQuery, JQuery Mobile, Bootstrap, SASS
+- DevOps: Ansible, Docker, Vagrant, Travis CI, Grunt, QUnit
+- Version Control: Git, Subversion, CVS
+- System Administration: IPTables, fail2ban
+- Visualization: d3.js, Google Charts, CytoscapeJS, GnuPlot
+- Data Analysis: R, Google Fusion Tables, CSVkit
+
+# Education #
+
+**Carnegie Mellon University**  
+Bachelor of Science, Biological Sciences, 2001 - 2005  
+Minor: Chemical Sciences
 
 
 # Experience #
@@ -42,16 +48,15 @@ Data Analysis: R, Google Fusion Tables, CSVkit
 *March 2009 - Present*  
   Develop services and interfaces for data conversion and analysis of scientific data. SQL, XML, JSON, CSV file formats, processing in PHP, Javascript, Python, and Java.
   Clients:
-  
- - [Sidescape Media](http://example.com) | Manage small team for LAMP and Drupal Commerce server administration. Deploy virtual machines hosted on Rackspace and Amazon AWS using Ansible. Malicious traffic mitigation with IP Tables and Fail2Ban.
- - [Noodle](http://www.noodle.com/) | Optimize and debug SOLR search queries. Create developer tools for testing Django. Coordinate development using issue tracker and Vagrant.
- - [Rayogram](http://www.rayogram.com/) | Web development company that works with non-profit, governmental, and fortune 500 clients.
-  Develop PHP for CiviCRM core, push commits upstream
-  Script deployment and migration of Drupal servers using Bash, Drush, and Perl.
+ - **[Sidescape Media](http://example.com)** Manage small team for LAMP and Drupal Commerce server administration. Deploy virtual machines hosted on Rackspace and Amazon AWS using Ansible. Malicious traffic mitigation with IP Tables and Fail2Ban.
+ - **[Noodle](http://www.noodle.com/)** Optimize and debug SOLR search queries. Create developer tools for testing Django. Coordinate development using issue tracker and Vagrant.
+ - **[Rayogram](http://www.rayogram.com/)** Develop PHP in CiviCRM core to add requested features. Script deployment and bulk migration of Drupal websites on LAMP servers using Bash, Drush, Perl and MySQL.
+ - **[Center for Effective Government](http://www.foreffectivegov.org/)** Develop Drupal website with responsivle layout to inform visitors about government policy. Implement modules for automated import of RSS content. Administer Drupal software on LAMP server.
   
 ## Research Associate at The Hampshire Research Institute
+
 June 2008 - July 2008 (2 months)
-  Assist analysis of EPA data using SQL queries. Implemented data migration from .MDB and export to .DBF using MS Access.
+  Assist analysis of public federal agency data using SQL queries. Implemet data migration from .MDB and MS Access to .DBF using open Linux libraries.
 
 ## Instructor at Kaplan Test Prep and Admissions
 September 2005 - April 2006 (8 months)
@@ -88,20 +93,15 @@ July 1997 - August 1997 (2 months)
 
 ### Volunteer ###
  - Volunteer at The Open Knowledge Foundation
-September 2008 - Present (1 year 10 months)
+September 2008 - Present
   Communicate with scientific community through open science discussion list, assist organization and coverage of web-based meetings. http://okfn.org
 
  - Volunteer at Open Science Information
-May 2008 - Present (2 years 2 months)
+May 2008 - Present
   Support community of science researchers, writers, students, and the public through online forums and web services. Develop and operate HTML, Javascript, XML, and JSON serving applications through PHP and MySQL.
 
 
 
-### Education ###
-
-Carnegie Mellon University
-Bachelor of Science, Biological Sciences, 2001 - 2005
-Minor: Chemical Sciences
                                                      
 ### Honors and Awards ###
  - BioTorrents: A File Sharing Service for Scientific Data, Acknowledged (doi:10.1371/journal.pone.0010071), 2010
