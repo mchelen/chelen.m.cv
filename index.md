@@ -15,25 +15,16 @@ communication.
 
 - - -
 
-
-
 # Summary #
-Molecular biology and neuroscience experienced in scientific data analysis. Development and application of computer programs for high throughput experimental imaging, laboratory notebooks, and assays results.
+Software developer and data analyst, with experience in scientific research and server administration.
 
-# Specialties #
+ - Development of web server software, including backend and frontend.
 
-- Molecular biology, neurobiology, biochemistry, organic chemistry, bioinformatics, bibliometrics,
-imaging and microscopy,
-
-- Server software: Apache, MySQL, SOLR, nginx
-- Programming languages: PHP, Java, JavaScript, BASH, Python, NodeJS
-- Data formats: SQL, XML, JSON
-- Frontend: HTML, CSS, JQuery, JQuery Mobile, Bootstrap, SASS
-- DevOps: Ansible, Docker, Vagrant, Travis CI, Grunt, QUnit
-- Version Control: Git, Subversion, CVS
-- System Administration: IPTables, fail2ban
-- Visualization: d3.js, Google Charts, CytoscapeJS, GnuPlot
-- Data Analysis: R, Google Fusion Tables, CSVkit
+ - High throughput analysis of experimental data
+ 
+ - Administration of Linux servers, automation of maintainence and deployment tasks.
+ 
+ - Information design, including user interfaces and data visualization.
 
 # Education #
 
@@ -41,58 +32,59 @@ imaging and microscopy,
 Bachelor of Science, Biological Sciences, 2001 - 2005  
 Minor: Chemical Sciences
 
-
 # Experience #
 
 ## Science and Technology Consultant
 *March 2009 - Present*  
-  Develop services and interfaces for data conversion and analysis of scientific data. SQL, XML, JSON, CSV file formats, processing in PHP, Javascript, Python, and Java.
-  Clients:
+Develop software for web services, data analysis, and backend administration. Perform software implementation and system administration. Plan and coordinate projects with client teams.
+
+  Projects:
 
  - **[Sidescape Media](http://example.com)** Manage small team for LAMP and Drupal Commerce server administration. Deploy virtual machines hosted on Rackspace and Amazon AWS using Ansible. Malicious traffic mitigation with IP Tables and Fail2Ban.
  - **[Noodle](http://www.noodle.com/)** Optimize and debug SOLR search queries. Create developer tools for testing Django. Coordinate development using issue tracker and Vagrant.
  - **[Rayogram](http://www.rayogram.com/)** Develop PHP in CiviCRM core to add requested features. Script deployment and bulk migration of Drupal websites on LAMP servers using Bash, Drush, Perl and MySQL.
- - **[Center for Effective Government](http://www.foreffectivegov.org/)** Develop Drupal website with responsivle layout to inform visitors about government policy. Implement modules for automated import of RSS content. Administer Drupal software on LAMP server.
+ - **[Center for Effective Government](http://www.foreffectivegov.org/)** Develop Drupal website with responsive layout to inform visitors about government policy. Implement modules for automated import of RSS content. Administer Drupal software on LAMP server.
   
 ## Research Associate at The Hampshire Research Institute
-
-June 2008 - July 2008 (2 months)
+*June 2008 - July 2008*  
   Assist analysis of public federal agency data using SQL queries. Implemet data migration from .MDB and MS Access to .DBF using open Linux libraries.
 
 ## Instructor at Kaplan Test Prep and Admissions
-September 2005 - April 2006 (8 months)
+*September 2005 - April 2006*  
   Primary instructor for Graduate Record Examinations and SAT Reasoning Test classes.
                                                                                                
 ## Visiting Scholar at University of Pittsburgh
-May 2005 - November 2005 (7 months)
-  Performed DNA, protein, and plasmid extraction, PCR, cell plating, amplification, and transfection.
-  Assisted analysis of fluorescence micrographs with MatLab and ImageJ.
+*May 2005 - November 2005*  
+  Performed DNA, protein, and plasmid extraction, PCR, cell plating, amplification, and transfection. Assisted high-throughput data analysis of fluorescence micrographs with MatLab and ImageJ.
 
 ## Undergraduate Researcher at University of Pittsburgh
-January 2005 - May 2005 (5 months)
+*January 2005 - May 2005*  
   Performed assays including DNA purification and cell plating. Implemented algorithms in MatLab for micrograph analysis.
 
 ## Website Developer at The Blue Curve
-January 2001 - January 2003 (2 years 1 month)
+*January 2002 - January 2003*  
   Designed and developed database driven websites in small team using ASP, MS Access, SQL, HTML, and CSS.
 
-## Research Assistant at NIH
-June 2002 - August 2002 (3 months)
+## Research Assistant at National Institutes of Health
+*June 2002 - August 2002*  
   Study techniques of fluorescent imaging, Southern Blot, cell culture, PCR, and microarray gene testing at NICHD lab. Assist usage of cluster analysis (Minitab) and Excel with VBScript for analysis of experimental data.
 
+<!--
 ## Website Developer at Complete Reviews
 January 2000 - January 2001 (1 year 1 month)
   Developed database driven website using MS Access and ASP server scripting for web writing team collaboration.
 
+
 ## Technical Writer at Glide Underground
-January 1999 - January 2000 (1 year 1 month)
+*January 1999 - January 2000*  
   Write reviews of computer software and hardware for enthusiast audience.
+-->
 
 ## Student Intern at Howard Hughes Medical Institute
-July 1997 - August 1997 (2 months)
+*July 1997 - August 1997*  
   Design interactive learning guides with team of students on aspects of cardiology, neurology, and molecular biology.
 
-### Volunteer ###
+# Volunteer #
  - Volunteer at The Open Knowledge Foundation
 September 2008 - Present
   Communicate with scientific community through open science discussion list, assist organization and coverage of web-based meetings. http://okfn.org
@@ -101,15 +93,25 @@ September 2008 - Present
 May 2008 - Present
   Support community of science researchers, writers, students, and the public through online forums and web services. Develop and operate HTML, Javascript, XML, and JSON serving applications through PHP and MySQL.
 
+# Skills #
 
-
+- Programming languages: PHP, Java, JavaScript, BASH, Python, NodeJS
+- Server software: Apache, MySQL, SOLR, nginx
+- Frontend: HTML, CSS, JQuery, JQuery Mobile, Bootstrap, SASS
+- DevOps: Ansible, Vagrant, Docker, Travis CI, Grunt, QUnit
+- Version Control: Git, Subversion, CVS
+- Data formats: SQL, XML, JSON
+- System Administration: IPTables, fail2ban
+- Visualization: d3.js, Google Charts, CytoscapeJS, GnuPlot
+- Data Analysis: R, Google Fusion Tables, CSVkit, ImageJ, Matlab
+- Biology: PCR, Microarray, Fluorescence Microscopy
                                                      
-### Honors and Awards ###
+# Honors and Awards #
  - BioTorrents: A File Sharing Service for Scientific Data, Acknowledged (doi:10.1371/journal.pone.0010071), 2010
  - University of Pittsburgh, Visiting Scholar, 2005
  - Adenosine: a neuron-glial transmitter promoting myelination in the CNS in response to action potentials (PMCID: PMC1201407), Acknowledged, 2002
 
-### Community Service ###
+# Community Service #
  - Volunteer, Open Knowledge Foundation, 2009-Present
  - Member, Habitat for Humanity District of Columbia, 2006
  - Member, American Friends Service Committee District of Columbia, 2002
