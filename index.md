@@ -4,33 +4,31 @@ title: Michael Chelen
 tagline: Curriculum Vitae
 ---
 {% include JB/setup %}
-Biologist experienced in high-throughput data analysis using open standards and web-based
-communication.  
-<i class="fa fa-envelope"></i> <Michael.Chelen@gmail.com>
+<i class="fa fa-envelope" style="color:dark-gray"></i> <Michael.Chelen@gmail.com>
 <i class="fa fa-phone"></i> (202) 683-9032  
 <i class="fa fa-linkedin"></i> [michaelchelen](https://www.linkedin.com/in/michaelchelen)
 <i class="fa fa-github"></i> [mchelen](http://github.com/mchelen)
 <i class="fa fa-twitter"></i> [mikechelen](http://twitter.com/MikeChelen)
-<i class="fa fa-home"></i> [mikechelen.com](http://mikechelen.com)
+<i class="fa fa-home"></i> [mchelen.com](http://mchelen.com)
 
 - - -
 
 # Summary #
 Software developer and data analyst, with experience in scientific research and server administration.
 
- - Development of web server software, including backend and frontend.
+ - Development of web server software backend and frontend using common frameworks.
 
- - High throughput analysis of experimental data
+ - Project planning and management, independently and in coordination with teams.
  
  - Administration of Linux servers, automation of maintainence and deployment tasks.
  
- - Information design, including user interfaces and data visualization.
+ - Data analysis, including high-throughput and visualization methods.
 
 # Education #
 
 **Carnegie Mellon University**  
 Bachelor of Science, Biological Sciences, 2001 - 2005  
-Minor: Chemical Sciences
+Minor, Chemical Sciences
 
 # Experience #
 
@@ -40,7 +38,7 @@ Develop software for web services, data analysis, and backend administration. Pe
 
   Projects:
 
- - **[Sidescape Media](http://example.com)** Manage small team for LAMP and Drupal Commerce server administration. Deploy virtual machines hosted on Rackspace and Amazon AWS using Ansible. Malicious traffic mitigation with IP Tables and Fail2Ban.
+ - **[Sidescape](http://sidescapemedia.com)** Manage small team for LAMP and Drupal Commerce server administration. Deploy virtual machines hosted on Rackspace and Amazon AWS using Ansible. Mitigate malicious traffic using IP Tables and Fail2Ban.
  - **[Noodle](http://www.noodle.com/)** Optimize and debug SOLR search queries. Create developer tools for testing Django. Coordinate development using issue tracker and Vagrant.
  - **[Rayogram](http://www.rayogram.com/)** Develop PHP in CiviCRM core to add requested features. Script deployment and bulk migration of Drupal websites on LAMP servers using Bash, Drush, Perl and MySQL.
  - **[Center for Effective Government](http://www.foreffectivegov.org/)** Develop Drupal website with responsive layout to inform visitors about government policy. Implement modules for automated import of RSS content. Administer Drupal software on LAMP server.
@@ -84,14 +82,16 @@ January 2000 - January 2001 (1 year 1 month)
 *July 1997 - August 1997*  
   Design interactive learning guides with team of students on aspects of cardiology, neurology, and molecular biology.
 
+<!--
 # Volunteer #
  - Volunteer at The Open Knowledge Foundation
-September 2008 - Present
+*September 2008 - Present*
   Communicate with scientific community through open science discussion list, assist organization and coverage of web-based meetings. http://okfn.org
 
  - Volunteer at Open Science Information
 May 2008 - Present
   Support community of science researchers, writers, students, and the public through online forums and web services. Develop and operate HTML, Javascript, XML, and JSON serving applications through PHP and MySQL.
+-->
 
 # Skills #
 
